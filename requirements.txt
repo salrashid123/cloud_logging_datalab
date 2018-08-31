@@ -1,0 +1,6 @@
+jupyter
+matplotlib
+pandas
+google-cloud-logging
+google-cloud-monitoring==0.28.1
+datalab
